@@ -20,7 +20,7 @@ class CommentForm extends Component {
         touched: {
             rating: false,
             author: false,
-            text: false
+            text: false,
         }
       };
 ​
